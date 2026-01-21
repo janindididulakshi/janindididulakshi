@@ -23,7 +23,7 @@
   
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="linkedin.com/in/k-janindi-didulakshi-507ba531b" target="blank"><img align="center" src="https://github.com/nimesh-1234/skill-icons/blob/main/icons/LinkedIn.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/k-janindi-didulakshi-507ba531b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/nimesh-1234/skill-icons/blob/main/icons/LinkedIn.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/14SJQEsFt9M/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Janindi Didulakshi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/janindidesilva?igsh=MWVxeWM1cDl2NzBldA==" target="blank"><img align="center" src="https://github.com/nimesh-1234/skill-icons/blob/main/icons/Instagram.svg" alt="Janindi Didulakshi" height="30" width="40" /></a>
 </p>
