@@ -6,7 +6,7 @@
 </p>
 <br>
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="50px" style="visibility: visible; max-width: 100%;"></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scopiarchy&label=Profile%20views&color=0e75b6&style=flat" alt="scopiarchy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janindididulakshi&label=Profile%20views&color=0e75b6&style=flat" alt="janindididulakshi" /> </p>
 
 
 ---
@@ -50,10 +50,10 @@
 
 <p align="center">
   <a href="https://github.com/Scopiarchy">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Scopiarchy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=janindididulakshi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Scopiarchy">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Scopiarchy&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janindididulakshi&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
