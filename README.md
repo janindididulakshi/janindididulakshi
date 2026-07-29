@@ -1,4 +1,4 @@
-<img width="1892" height="863" alt="Hello There" alt="image" src="hero.PNG>
+<img width="1892" height="863" alt="Hello There" alt="image" src="hero.PNG">
 
 <h1 align="center">Hi 👋, I'm Janindi Didulakshi</h1>
 <p align="center">
