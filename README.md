@@ -1,4 +1,4 @@
-<!--<img width="1892" height="863" alt="Hello There"  alt="image" src="https://github.com/user-attachments/assets/c31c01ab-ab8f-44a4-8400-371a81184107"/>-->
+<img width="1892" height="863" alt="Hello There" alt="image" src="hero.PNG>
 
 <h1 align="center">Hi 👋, I'm Janindi Didulakshi</h1>
 <p align="center">
@@ -8,8 +8,8 @@
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="50px" style="visibility: visible; max-width: 100%;"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janindididulakshi&label=Profile%20views&color=0e75b6&style=flat" alt="janindididulakshi" /> </p>
 
-
 ---
+
 <h2 align="center">About Me</h2>
 - 🌱 I’m currently learning <b>NET Framework ,HTML,CSS,JAVA SCRIPT JAVA , C# , OOP , PHP , SQL at Advanced Technological Institute Galle</b>
 
@@ -20,7 +20,7 @@
 - 📄 Know about my experiences <!--[https://dimuthu-shalinda-portfolio.vercel.app/assets/resume.pdf](https://dimuthu-shalinda-portfolio.vercel.app/assets/resume.pdf)-->
 
 - ⚡ Fun fact **Call me as Jeen**
-  
+
 <h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/k-janindi-didulakshi-507ba531b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/nimesh-1234/skill-icons/blob/main/icons/LinkedIn.svg" height="30" width="40" /></a>
@@ -56,5 +56,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janindididulakshi&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-
